@@ -1,0 +1,13 @@
+# 数据文件
+*.fvecs
+*.fbin
+*.ivecs
+*groundtruth*
+
+# Windows 元数据
+*Zone.Identifier*
+
+# 其他
+*.o
+*.exe
+__pycache__/
